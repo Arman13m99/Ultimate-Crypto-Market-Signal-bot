@@ -7,10 +7,6 @@ This repository contains a Python-based real-time trading signal bot for the BTC
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 - [Disclaimer](#disclaimer)
 
