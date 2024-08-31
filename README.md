@@ -2,6 +2,9 @@
 
 This repository contains a Python-based real-time trading signal bot for the BTC/USDT pair using data from Binance's Futures market. The bot streams live market data, processes and analyzes it to generate trading signals, visualizes data using Plotly, and sends notifications along with charts to a specified Telegram channel.
 
+![70bb56a7-d918-4606-91d7-43d23eeebf15](https://github.com/user-attachments/assets/4656f495-3321-4b83-bb19-2e47b3330226)
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -58,6 +61,7 @@ git clone https://github.com/yourusername/btcusdt-trading-signal-bot.git
 cd btcusdt-trading-signal-bot
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
 
 
 
