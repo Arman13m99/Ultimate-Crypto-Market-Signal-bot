@@ -55,6 +55,9 @@ This repository contains a Python-based real-time trading signal bot for the BTC
 ```bash
 git clone https://github.com/yourusername/btcusdt-trading-signal-bot.git
 cd btcusdt-trading-signal-bot
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
 
 ## License
 This project is licensed under the MIT License.
