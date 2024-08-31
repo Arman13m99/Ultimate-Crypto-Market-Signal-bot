@@ -47,10 +47,15 @@ This repository contains a Python-based real-time trading signal bot for the BTC
 - **Telegram Bot Token and Chat ID**: To send notifications via Telegram.
 
 ---
+## License
+This project is licensed under the MIT License.
+
+## Disclaimer
+This project is for educational purposes only. Trading cryptocurrencies involves significant risk and can result in financial loss. Use this bot at your own risk. The maintainers and contributors are not responsible for any losses incurred. Always perform due diligence and consider consulting with a professional before engaging in trading activities.
 
 ## Installation
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/btcusdt-trading-signal-bot.git
@@ -59,11 +64,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 
-## License
-This project is licensed under the MIT License.
 
-## Disclaimer
-This project is for educational purposes only. Trading cryptocurrencies involves significant risk and can result in financial loss. Use this bot at your own risk. The maintainers and contributors are not responsible for any losses incurred. Always perform due diligence and consider consulting with a professional before engaging in trading activities.
 
 
 
